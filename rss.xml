@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[The Vineyard Experience]]></title>
         <description><![CDATA[The Vineyard Experience]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/julienangevin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 13:09:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 13:10:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/julienangevin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/33c2daeb-0fc3-4a7c-8161-181baa5b0d90.jpg">]]></description>
-            <link>undefinedjulien/index.html</link>
+            <link>https://thegrid.ai/julienangevin/julien/index.html</link>
             <guid isPermaLink="false">79b20331-3f7f-4e9e-a375-e90cd2ab43ab</guid>
             <pubDate>Mon, 11 Jan 2016 13:09:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exclusive Vineyards Travel Tours (WTS 2016)]]></title>
+            <description><![CDATA[<article><h1>Exclusive Vineyards Travel Tours (WTS 2016)</h1><p>Julien </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d0cc8fcc2d330b13cbec27a87e90712ef4b940f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/julienangevin/julien/index.html</link>
+            <guid isPermaLink="false">5cd7c56f-a194-44ec-b09e-b81b345f1c99</guid>
+            <pubDate>Mon, 11 Jan 2016 13:09:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
