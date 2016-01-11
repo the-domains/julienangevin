@@ -16,8 +16,8 @@ keywords:
   - designed
   - exigence
 description: '10 years we travel the world with iconic Chateaux & Estates to finally realize that there is no travel services operators able to host our clients with our level of exigence, dedication and passion.'
-datePublished: '2016-01-11T12:25:26.246Z'
-dateModified: '2016-01-11T12:25:13.097Z'
+datePublished: '2016-01-11T12:34:54.241Z'
+dateModified: '2016-01-11T12:25:26.246Z'
 author:
   - name: Julien Angevin
     url: 'https://www.linkedin.com/pub/julien-angevin/5/907/a42?trk=pulse-det-athr_prof-art_hdr'
