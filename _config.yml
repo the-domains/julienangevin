@@ -1,29 +1,41 @@
-name: julienangevin
-favicon: null
-layout_spectrum: 0.963166
-typography_spectrum: 0.9426523
 title: The Vineyard Experience
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.4770748
+  brandStrength: 0.5
+  rhythmicContrast: 0.811828
   brandColors:
     - '#7393b9'
     - '#69773a'
     - '#1d2d08'
     - '#dbd5bc'
     - '#c3a17b'
-  brandStrength: 0.5
   lightness: 0.4462366
-  saturation: 0.4770748
-  rhythmicContrast: 0.811828
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: julienangevin
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3530466
+layout_spectrum: 0.963166
