@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Vineyard Experience]]></title>
         <description><![CDATA[The Vineyard Experience]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/julienangevin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 07:08:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jul 2016 07:18:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/julienangevin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Girard-Perregaux | SPOOTNIK.COM]]></title>
+            <description><![CDATA[<article><h1>Girard-Perregaux | SPOOTNIK.COM</h1><p>SPOOTNIK.COM</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b188683b5307794c9f2268261e045bfe52c86aa.jpg"></article>]]></description>
+            <link>http://gp.spootnik.com/?from=spootnik</link>
+            <guid isPermaLink="false">6c8d887d-a8d8-471e-85c4-109b8ccaa1ac</guid>
+            <pubDate>Tue, 12 Jul 2016 07:18:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Exclusive Vineyards Travel Tours (WTS 2016)]]></title>
             <description><![CDATA[<article><h1>Exclusive Vineyards Travel Tours (WTS 2016)</h1><p>Julien </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0413880c8f8b7dc8d4f898550f14db35095d3dfd.jpg"></article>]]></description>
-            <link>undefinedjulien/index.html</link>
+            <link>https://thegrid.ai/julienangevin/julien/index.html</link>
             <guid isPermaLink="false">5cd7c56f-a194-44ec-b09e-b81b345f1c99</guid>
             <pubDate>Fri, 15 Jan 2016 07:07:52 GMT</pubDate>
         </item>
